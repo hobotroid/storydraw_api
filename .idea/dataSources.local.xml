@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="718fa6fd-d1c6-4b8c-b70e-253b865cc59b">
+      <user-name>storydraw</user-name>
+      <user-password>dfd9dfdedfc5dfd8dfd3dfcedfd8dfcbdfdd</user-password>
+      <schema-pattern>storydraw.pg_catalog storydraw.public</schema-pattern>
+      <default-schemas>storydraw.public</default-schemas>
+    </data-source>
+  </component>
+</project>
